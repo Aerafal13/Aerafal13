@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/Aerafal13?tab=repositories)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://discord.gg/Aerafal#9623" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Aerafal#9623" height="30" width="40" /></a>
 </p>
