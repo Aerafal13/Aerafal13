@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aerafal</h1>
 
-- 🔭 I’m currently working on [Ogrest](https://github.com/Aerafal13/Ogrest)
-
 - 🌱 I’m currently learning **C# & C++, Js & Ts**
 
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/Aerafal13?tab=repositories)
