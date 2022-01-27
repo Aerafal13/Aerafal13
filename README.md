@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aerafal</h1>
 
-- 🌱 I’m currently learning **C# & C++, Js & Ts**
+- 🌱 I’m currently learning **C#, C++, Js, Ts & Rust**
 
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/Aerafal13?tab=repositories)
 
